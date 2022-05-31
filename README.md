@@ -1,5 +1,5 @@
 # ANIMATION ☀
-There is a page with animation features.
+Here is a page with animation features.
 Here is the link:
 [My project] (https://annirubi.github.io/Animation-hw9/).
 
