@@ -1,7 +1,7 @@
 # ANIMATION ☀
 There is a page with animation features.
 Here is the link:
-[My project] (annirubi.github.io/animation-hw9/)
+[My project] (annirubi.github.io/animation-hw9/). Open it in 'about'. 
 
 ___
 Properties and functions used for animation:
