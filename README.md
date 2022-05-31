@@ -1,8 +1,9 @@
 # ANIMATION ☀
 There is a page with animation features.
 Here is the link:
-[My project] (annirubi.github.io/animation-hw9/). 
+[My project] (annirubi.github.io/animation-hw9/)
 
+___
 Properties and functions used for animation:
 - [X] transform: rotate
 - [X] transition
